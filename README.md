@@ -17,8 +17,7 @@ _**Project Background**_
 
 4\. Clicks
 
-<p>Data source : Kaggle website</p>
-<p>Data visualization tools : Power BI</p>
+<p>Data source : Kaggle website, Data visualization tools : Power BI</p>
 
 _**Data Structure**_
 
