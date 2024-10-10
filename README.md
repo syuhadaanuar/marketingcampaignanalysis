@@ -60,6 +60,7 @@ a\. Search campaigns achieve a high number of clicks (0.25 billion) with a bette
 b\. Social media is performing similarly to influencer campaigns in terms of impressions (0.21bn, 0.22bn) and clicks (0.02bn). It may need more engaging content to boost click performance and indicates these are more useful for awareness than driving high engagement.
 
 _**Recommendation**_
+
 1\. Since Email and Google ads are performing well, create high quality content which is valuable and relevant that addresses the specific needs of your audience segments. This can improve engagement and drive conversions.
 
 2\. Improve user experience in Website channels by simplifying the steps users need to take to complete a conversion and refine the user experience based on feedback and performance metrics.
